@@ -1,0 +1,571 @@
+{
+	"dialogue": [
+		{
+			"expression": "coreputo",
+			"text": "Uff",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "wow",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "Isso foi intenso",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "adorei",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Bem entao acho que foi isso",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "coretalk",
+			"text": "Realmente",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coreputo",
+			"text": "Eu nao aguento mais uma nota",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "talk",
+			"text": "Eu entendo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "........",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "Tudo fica em silencio entre nossos herois...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "coreputo",
+			"text": "beeeeeeeeeeemmmmmmmmmmm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coretalk",
+			"text": "Foi legal. Obrigado pro treinar comigo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Nah sem problemas",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Eu agunetava mais um pouco",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "coreputo",
+			"text": "sei sei",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Mas e serio",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Eu ficaria mas tenho que ir se nao a outra aqui tem um treco",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Falando nisso",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "A yummi ta um pouco quieta",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "estranho....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "*mechendo no radio*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "coreputo",
+			"text": "Mah em?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "talk",
+			"text": "Yummi mas o que tu ta fazendo que ta te deixando tao quieta assim?-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Perai, to concentrado aqui",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Mas que po-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Quietinho!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "talk",
+			"text": ".   .   .   .",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Quase la",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Ta quase.........",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "talk",
+			"text": "Ja acabou?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "Porcaria! Voce me desconcentrou",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Olha nao sei se voce percebeu",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "Mas nao era pra voce ta feliz que a gente ia pra casa agorinha mesmo?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Ehhhhhhhhhhh acho que sim",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Eu tava focado demais para prestar atencao ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "coreputo",
+			"text": "E o que voce tava fazendo com a caixa de som exatamente?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Eu estava tentando arrumar essa caixinha de som",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "O volume tava um pouco baixo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "talk",
+			"text": "Baixo?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Conseguimos ouvir perfeitamente o som",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Poxa serio?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Que interessante. . . .",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "talk",
+			"text": ".    .    .    .",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Ta tentando de novo?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Dessa vez vai",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "coreputo",
+			"text": "Yummi eu acho que voce nao devia aumentar-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Por que nao?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Eu tenho certeza que dessa vez vai funcionar",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "talk",
+			"text": "Yummi eu acho que ja ta bom-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "Mais um pouco.....",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "O som comeca a ficar cada vez mais alto, provocando todos ao redor",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "putassoai",
+			"text": "AAAAAAAAAAAA",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "puto"
+		},
+		{
+			"expression": "putassoai",
+			"text": "TA MUITO ALTO!!!!!",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "puto"
+		},
+		{
+			"expression": "putassoai",
+			"text": "FAZ ELA PARAR PELO AMOR DE DEUS!!!!!",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "puto"
+		},
+		{
+			"expression": "lightgrito",
+			"text": "YUMMI ISSO TA ALTO DEMAIS!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "fudeu"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "EU ACHO QUE SO MAIS UM POUCO....",
+			"boxState": "angry",
+			"speed": 0.035,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "lightgrito",
+			"text": "YUMMI PARA! VOCE VAI DEIXAR TODOS SURDOS!!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "fudeu"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "A pressao do volume faz com que os moveis ao seu redor comecem a se quebrar....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "Incluindo ate....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Core o que sao aquelas coisas na parede????",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "Lightwuz"
+		},
+		{
+			"expression": "putassoai",
+			"text": "OH DEUS SAO RACHADURAS!!!!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "puto"
+		},
+		{
+			"expression": "lightgrito",
+			"text": "RACHADURAS?!?!?!?!?!??!?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "fudeu"
+		},
+		{
+			"expression": "putassoai",
+			"text": "YUMMI VOCE ESTA DESTRUINDO TUDO!!!!!",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "puto"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "SO MAIS UM POUCO!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "yummiratio",
+			"text": "AGORA SIM-",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ratio"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "Todos ficam em silencio...O choque de ver a parede sendo quebrada em pedacos e \\nrevigorante...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Oh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightgrito",
+			"text": ".      .     .      .",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fudeu"
+		},
+		{
+			"expression": "putassocore",
+			"text": ".        .          .          .",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "puto"
+		},
+		{
+			"expression": "lightgrito",
+			"text": "Yummi voce...",
+			"boxState": "normal",
+			"speed": 0.115,
+			"portrait": "fudeu"
+		},
+		{
+			"expression": "putassocore",
+			"text": "Oh.....?",
+			"boxState": "normal",
+			"speed": 0.125,
+			"portrait": "puto"
+		},
+		{
+			"expression": "putassofull",
+			"text": "OH?!?!?!?!??!?!?!??!?!?!?!?!",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "puto"
+		},
+		{
+			"expression": "putassofull",
+			"text": "VOCE QUEBROU MINHA CASA E AGORA DIZ OH?!?!?!?!??!?!?!?!??!",
+			"boxState": "angry",
+			"speed": 0.005,
+			"portrait": "puto"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "WTF?!?!??!?!",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "Yummi"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "Eu tenho quase certeza que o core NAO fazia isso!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightgrito",
+			"text": "E voce acha que eu ia saber!?!?!??!?!",
+			"boxState": "angry",
+			"speed": 0.035,
+			"portrait": "fudeu"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "fudeu",
+			"boxState": "angry",
+			"expression": "lightgrito",
+			"text": "AH CARA EU TENTEI TE AVISAR"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "puto",
+			"boxState": "angry",
+			"expression": "putassofull",
+			"text": "VOCE IRA PAGAR POR ISSO"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassofull",
+			"text": "vai....."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "puto",
+			"boxState": "angry",
+			"expression": "putassofull",
+			"text": "PAGAR!!!!!!!"
+		}
+	]
+}

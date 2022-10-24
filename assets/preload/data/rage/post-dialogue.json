@@ -1,0 +1,235 @@
+{
+	"dialogue": [
+		{
+			"expression": "lightfeliz",
+			"text": "Parece que eu aguentava mais um pouco nao acha C O R E?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "Isso foi muito anticlimatico e voce sabe T-T",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Pode ate ser ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "Porem, contudo, entretano",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Eu venci a batalha, e acho que tenho o direito de ir pra casa livremente ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "putassofull",
+			"text": "GRRRRRRRRRRRRRRRRRRR",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "puto"
+		},
+		{
+			"expression": "putassofull",
+			"text": "SEUS....",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "puto"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Ei ei ei wait a minute",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Ele ganhou a batalha",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "E de acordo com o o manual de batlhas de rap, quando voce perde seu oponente sai vitorioso e o mesmo nao pode sofrer danos",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "putassofull",
+			"text": "SEUS MENTIROSOS!!!",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "puto"
+		},
+		{
+			"expression": "putassofull",
+			"text": "ISSO NAO EXISTE!!!!!!",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "puto"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Claro que existe, acabei de inventar",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "Sem querer interromper...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "Mas ele tem um ponto",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassofull",
+			"text": "CALADO!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassocore",
+			"text": "Pois bem...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassocore",
+			"text": "Ele realmente ganhou a batalha..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Ah gloria deus voce percebeu-"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassofull",
+			"text": "VAI PODER FICAR FORA DISSO!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fudeu",
+			"boxState": "normal",
+			"expression": "lightgrito",
+			"text": "OI?!?!?!??!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "E em um passe de magica..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Light e brutamente jogado para fora do apertamento, caindo em direcao a terra a mais de 700 metros abaixo "
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "fudeu",
+			"boxState": "normal",
+			"expression": "lightgrito",
+			"text": "AAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "LIIIIGHTTTTTTTTTTTTTTTTTTTTTTT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "Poxa, por que nao me jogou tambem?"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassofull",
+			"text": "CHEGA DE BRINCADEIRAS!!!!!!!!"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassofull",
+			"text": "YUMMIWUZ, VOCE VAI SER APRISIONADO AQUI POR TODA A ETERNIDADE"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "puto",
+			"boxState": "normal",
+			"expression": "putassofull",
+			"text": "ATE SER MORTA POR FALTA DE AR NESSE ESPACO ESCURO E VAZIO!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Olha conversa interessante porem ta na hora de eu ir"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Em um passe, Yummi se joga do predio deixando Core sozinho "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Felizmente, sao salvos por Anjo Flamengo e saem salvos e ilesos"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Se passa uma semana, a casa de Core volta ao normal depois de uma longa reforma..."
+		}
+	]
+}
