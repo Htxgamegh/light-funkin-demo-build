@@ -1,0 +1,291 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coretalk",
+			"text": "Ei cara isso foi divertido!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Foi legalzinho ate"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Descobri que eu canto muito bem"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "Lightwuz eu to cansada, vamos pra casa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Eu tenho certeza que ja atrasamos uns 2 videos"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ahhhhh qual e yummi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Light eu ate aceitaria. Porem minha cama precisa de mim"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coreputo",
+			"text": "Eu entendo ._."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "entaoooooo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Foi bom treinar contigo Core. Mas acho que ta na hora de voltar pra casa"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "yummi",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "ai simmmmmmmmmm dormir!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Mas antes de light e yummi sairem..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coreputo",
+			"text": "Ei esperem!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coretalk",
+			"text": "Eu tava pensando em treinar mais um pouco saca?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Oxi por que?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "lighhhhhhhhtttttttttttt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "ta na hora de ir pra casa, eu quero dormir :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coretalk",
+			"text": "Por favoooooooooooooooooooooor"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coreputo",
+			"text": "Eu ainda nao tenho certeza se estou bom o bastante"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bem eu acho que so mais uma nao vai matar alguem"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "aaaaaaaaaaaaaaaaaaaaaaaa eu quero ir pra casa :((((((("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Porque voce nao vai sozinha ue?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Voce pode muito bem chegar ate em casa sem mim"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "A chave de casa ta com voce"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Serio?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Putz"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Entao arranja outra coisa pra fazer sei la"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "angry",
+			"expression": "yummitalk",
+			"text": "aaahhhhhhhhhhhh bosta"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Bem acho que vou ter que ouvir mais \\nmusiquinha por enquanto"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Ei Core"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Core",
+			"boxState": "normal",
+			"expression": "coretalk",
+			"text": "Sim?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Depois que a gente acabar aqui eu posso levar essa caixinha de som?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coretalk",
+			"text": "Pode ser"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coreputo",
+			"text": "A gente nao usa ela muito mesmo._."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coreputo",
+			"text": "Provavelmente iria virar so mais uma coisa pro gato comer"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Valeuzao ai"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Serio que voce vai levar a caixinha de som do core pro bar?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "La e muito entediante"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Vou colocar umas musica daora pros video"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Voce tem um ponto"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "coretalk",
+			"text": "Vamos la!"
+		}
+	]
+}
