@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cool.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coolfeliz0000" x="0" y="0" width="357" height="603" frameX="0" frameY="0" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0001" x="0" y="0" width="357" height="603" frameX="0" frameY="0" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0002" x="357" y="0" width="361" height="600" frameX="-1" frameY="-17" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0003" x="357" y="0" width="361" height="600" frameX="-1" frameY="-17" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0004" x="718" y="0" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0005" x="718" y="0" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0006" x="718" y="0" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolfeliz0007" x="718" y="0" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0000" x="1098" y="0" width="357" height="603" frameX="0" frameY="0" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0001" x="1098" y="0" width="357" height="603" frameX="0" frameY="0" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0002" x="1455" y="0" width="361" height="600" frameX="-1" frameY="-17" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0003" x="1455" y="0" width="361" height="600" frameX="-1" frameY="-17" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0004" x="0" y="603" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0005" x="0" y="603" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0006" x="0" y="603" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="coolreal0007" x="0" y="603" width="380" height="592" frameX="-1" frameY="-25" frameWidth="381" frameHeight="617"/>
+	<SubTexture name="cooltalk0000" x="380" y="603" width="384" height="622" frameX="0" frameY="0" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0001" x="380" y="603" width="384" height="622" frameX="0" frameY="0" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0002" x="764" y="603" width="384" height="623" frameX="-4" frameY="-15" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0003" x="764" y="603" width="384" height="623" frameX="-4" frameY="-15" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0004" x="1148" y="603" width="395" height="609" frameX="-4" frameY="-29" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0005" x="1148" y="603" width="395" height="609" frameX="-4" frameY="-29" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0006" x="1148" y="603" width="395" height="609" frameX="-4" frameY="-29" frameWidth="399" frameHeight="638"/>
+	<SubTexture name="cooltalk0007" x="1148" y="603" width="395" height="609" frameX="-4" frameY="-29" frameWidth="399" frameHeight="638"/>
+</TextureAtlas>

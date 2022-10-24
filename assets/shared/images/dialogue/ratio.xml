@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ratio.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yummiratio0000" x="0" y="0" width="517" height="664" frameX="0" frameY="0" frameWidth="517" frameHeight="682"/>
+	<SubTexture name="yummiratio0001" x="0" y="0" width="517" height="664" frameX="0" frameY="0" frameWidth="517" frameHeight="682"/>
+	<SubTexture name="yummiratio0002" x="0" y="664" width="517" height="673" frameX="0" frameY="-9" frameWidth="517" frameHeight="682"/>
+	<SubTexture name="yummiratio0003" x="0" y="664" width="517" height="673" frameX="0" frameY="-9" frameWidth="517" frameHeight="682"/>
+	<SubTexture name="yummiratio0004" x="0" y="1337" width="517" height="661" frameX="0" frameY="-21" frameWidth="517" frameHeight="682"/>
+	<SubTexture name="yummiratio0005" x="0" y="1337" width="517" height="661" frameX="0" frameY="-21" frameWidth="517" frameHeight="682"/>
+</TextureAtlas>

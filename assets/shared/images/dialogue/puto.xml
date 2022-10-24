@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="puto.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="putassoai0000" x="0" y="0" width="637" height="679" frameX="-10" frameY="-25" frameWidth="647" frameHeight="723"/>
+	<SubTexture name="putassoai0001" x="0" y="0" width="637" height="679" frameX="-10" frameY="-25" frameWidth="647" frameHeight="723"/>
+	<SubTexture name="putassoai0002" x="637" y="0" width="637" height="712" frameX="-9" frameY="-11" frameWidth="647" frameHeight="723"/>
+	<SubTexture name="putassoai0003" x="637" y="0" width="637" height="712" frameX="-9" frameY="-11" frameWidth="647" frameHeight="723"/>
+	<SubTexture name="putassoai0004" x="1274" y="0" width="644" height="723" frameX="0" frameY="0" frameWidth="647" frameHeight="723"/>
+	<SubTexture name="putassoai0005" x="1274" y="0" width="644" height="723" frameX="0" frameY="0" frameWidth="647" frameHeight="723"/>
+	<SubTexture name="putassocore0000" x="0" y="723" width="601" height="694" frameX="0" frameY="0" frameWidth="606" frameHeight="699"/>
+	<SubTexture name="putassocore0001" x="0" y="723" width="601" height="694" frameX="0" frameY="0" frameWidth="606" frameHeight="699"/>
+	<SubTexture name="putassocore0002" x="601" y="723" width="606" height="679" frameX="0" frameY="-20" frameWidth="606" frameHeight="699"/>
+	<SubTexture name="putassocore0003" x="601" y="723" width="606" height="679" frameX="0" frameY="-20" frameWidth="606" frameHeight="699"/>
+	<SubTexture name="putassocore0004" x="1207" y="723" width="605" height="684" frameX="0" frameY="-15" frameWidth="606" frameHeight="699"/>
+	<SubTexture name="putassocore0005" x="1207" y="723" width="605" height="684" frameX="0" frameY="-15" frameWidth="606" frameHeight="699"/>
+	<SubTexture name="putassofull0000" x="0" y="1417" width="664" height="980" frameX="0" frameY="-38" frameWidth="682" frameHeight="1018"/>
+	<SubTexture name="putassofull0001" x="664" y="1417" width="645" height="999" frameX="-37" frameY="-15" frameWidth="682" frameHeight="1018"/>
+	<SubTexture name="putassofull0002" x="1309" y="1417" width="606" height="1018" frameX="-63" frameY="0" frameWidth="682" frameHeight="1018"/>
+	<SubTexture name="putassofull0003" x="0" y="2435" width="682" height="976" frameX="0" frameY="-38" frameWidth="682" frameHeight="1018"/>
+	<SubTexture name="putassofull0004" x="682" y="2435" width="627" height="1003" frameX="-37" frameY="-15" frameWidth="682" frameHeight="1018"/>
+	<SubTexture name="putassofull0005" x="1309" y="2435" width="633" height="1014" frameX="-49" frameY="0" frameWidth="682" frameHeight="1018"/>
+</TextureAtlas>

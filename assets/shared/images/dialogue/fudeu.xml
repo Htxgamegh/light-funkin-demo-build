@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fudeu.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightgrito0000" x="0" y="0" width="536" height="570"/>
+	<SubTexture name="lightgrito0001" x="0" y="0" width="536" height="570"/>
+	<SubTexture name="lightgrito0002" x="0" y="570" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightgrito0003" x="0" y="570" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightgrito0004" x="0" y="1130" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightgrito0005" x="0" y="1130" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+</TextureAtlas>

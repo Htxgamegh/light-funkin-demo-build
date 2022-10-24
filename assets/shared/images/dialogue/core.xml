@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="core.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coreputo0000" x="0" y="0" width="601" height="694" frameX="0" frameY="-25" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coreputo0001" x="0" y="0" width="601" height="694" frameX="0" frameY="-25" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coreputo0002" x="601" y="0" width="600" height="713" frameX="0" frameY="-11" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coreputo0003" x="601" y="0" width="600" height="713" frameX="0" frameY="-11" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coreputo0004" x="1201" y="0" width="598" height="724" frameX="0" frameY="0" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coreputo0005" x="1201" y="0" width="598" height="724" frameX="0" frameY="0" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coretalk0000" x="0" y="724" width="601" height="694" frameX="0" frameY="-25" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coretalk0001" x="0" y="724" width="601" height="694" frameX="0" frameY="-25" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coretalk0002" x="601" y="724" width="600" height="713" frameX="0" frameY="-11" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coretalk0003" x="601" y="724" width="600" height="713" frameX="0" frameY="-11" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coretalk0004" x="1201" y="724" width="598" height="724" frameX="0" frameY="0" frameWidth="601" frameHeight="724"/>
+	<SubTexture name="coretalk0005" x="1201" y="724" width="598" height="724" frameX="0" frameY="0" frameWidth="601" frameHeight="724"/>
+</TextureAtlas>

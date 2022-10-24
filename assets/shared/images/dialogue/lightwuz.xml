@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightwuz.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightcofnuso0000" x="0" y="0" width="536" height="570"/>
+	<SubTexture name="lightcofnuso0001" x="0" y="0" width="536" height="570"/>
+	<SubTexture name="lightcofnuso0002" x="536" y="0" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightcofnuso0003" x="536" y="0" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightcofnuso0004" x="1069" y="0" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightcofnuso0005" x="1069" y="0" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightfeliz0000" x="0" y="570" width="536" height="570"/>
+	<SubTexture name="lightfeliz0001" x="0" y="570" width="536" height="570"/>
+	<SubTexture name="lightfeliz0002" x="536" y="570" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightfeliz0003" x="536" y="570" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightfeliz0004" x="1069" y="570" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightfeliz0005" x="0" y="1140" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lightfeliz0006" x="0" y="1140" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lighttalk0000" x="534" y="1140" width="536" height="570"/>
+	<SubTexture name="lighttalk0001" x="534" y="1140" width="536" height="570"/>
+	<SubTexture name="lighttalk0002" x="1070" y="1140" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lighttalk0003" x="1070" y="1140" width="533" height="560" frameX="-1" frameY="-10" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lighttalk0004" x="0" y="1710" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lighttalk0005" x="0" y="1710" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lighttalk0006" x="0" y="1710" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+	<SubTexture name="lighttalk0007" x="0" y="1710" width="534" height="542" frameX="-1" frameY="-28" frameWidth="536" frameHeight="570"/>
+</TextureAtlas>
