@@ -1,0 +1,508 @@
+{
+	"dialogue": [
+		{
+			"expression": "lightfeliz",
+			"text": "aaaaa finalmente",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "depois de 3 videos diariamente",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "vou poder ver o programa do rati-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "alo alo!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "e o lightwuz que fala? Ou o vsilva? ( nao da pra colocar acento na psych, foi mal)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "talk",
+			"text": "._.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "talvez......?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "perfeito!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "talk",
+			"text": " quem fala mesmo?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "e a sua mae-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "talk",
+			"text": "OI??!?!?!?!??!?!?!?!??!?!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "brincadeira",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "mas nmrl",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "me responde uma coisa ai",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "tu e o lightwuz?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "sim?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "e mesmo sendo ou nao, sua voz parece muito familiar pra mim......",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "poxa, s-serio...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "enfim",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "faz o seguinte",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "vai na rua (REDACTED) 25",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "talk",
+			"text": "por que REDACTED?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "meus inscritos podem me achar e me obrigar a falar voce sabe o que",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "Como, se nos estamos falando sozinhos?\\n",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "na minha casa",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "NO MEU TELEFONE. . . .",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": ". . . . . .",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "so vem logo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "por que tu nao me manda na minha dm do\\ndiscord ou no meu twitter em?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "TA BOM  TA BOM",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "telefone",
+			"text": "meu deus bergui",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "talk",
+			"text": "enfim",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "que dia eu tenho que ir ai?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "telefone",
+			"text": "dia (SEGREDO)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "telefone"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "beleza, estarei ai",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "7 dias depois....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "quarta-feira, 13:00",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "beleza pelos meus calculos...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "excited",
+			"text": "essa e a tal casa",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "light por que voce me trouxe aqui, sao 13:00 eu queria dormir",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "primeiramente voce ia estar editando video novo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "segundamente eu nao quero me ferrar sozinho",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "filho da-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "tu nem sabe quem e ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "por isso mesmo que eu te trouxe aqui ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "coretalk",
+			"text": "opaaaaaa",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coretalk",
+			"text": "eae light!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "talk",
+			"text": "ah, ja tava imaginando",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "olha o core do friday night funkin!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "coreputo",
+			"text": "ousado....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "enfim, por que me chamou aqui core?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "coreputo",
+			"text": "beemmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coretalk",
+			"text": "eu tava vendo meus comentarios",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coreputo",
+			"text": "e a galera pediu pra eu cantar monochrome na vida real",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "isso e meio cringe",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "confused",
+			"text": "yummi....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "coretalk",
+			"text": "enfim...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coreputo",
+			"text": "eu precisava de alguem pra testar se eu era bom no canto e tals",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coretalk",
+			"text": "e porque eu nao treino com o segundo ser humano que nao quebra o teclado jogando expurgation?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "lightcofnuso",
+			"text": "faz sentido ate",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "mano...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "ok, vamos iniciar logo isso",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "talk",
+			"text": "5 segundos atrasado e meus inscritos me pingam por video",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "coretalk",
+			"text": "beleza creuza",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "ahhhhhhh que saco",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "nao tem musiquinha pra ouvir ai?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "coretalk",
+			"text": "minha esposa deve ter uma caixa de som",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "coreputo",
+			"text": "desde que um individuo com cabelo azul brotou na minha casa ele deu a caixa de som pra gente",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "lol faz sentido",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "passa a caixa de som ai nmrl",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "lightfeliz",
+			"text": "oh yeahhhhhhhhhhhh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		}
+	]
+}
