@@ -1,0 +1,228 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "Ei cara, voce mandou ver nessa rodada!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Uff, obrigado carinha. Voce tambem foi osso duro de roer"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Meu deus light..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappataputo",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bem ja esta escurecendo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Ta na hora de ir pra casa lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Finalmente uma coisa coerente que voce fala"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "Tudo bem, eu entendo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "Minha garota ta precisando de mim!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "Hey Light!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Sim?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "Talvez um dia pudessemos nos encontrar de novo!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Pode ser carinha"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Desde que voce nao puxe a gente para um beco de novo, eu to de boa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "Eu tenho um amigo que vai adorar cantar com a gente na casa dele!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Beleza"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, so pra saber"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Qual o nome dele mesmo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "O nome dele e G-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Wow wow wow! Vai devagar!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Nao acha que estamos nos apressando demais?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "E que escuridao e essa? Liguem as luzes!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolreal",
+			"text": "Melhorou"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolfeliz",
+			"text": "Ola meu nome e Cool e eu sou o criador do mod que voce esta jogando neste instante!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolreal",
+			"text": "Isso foi apenas uma demo do Light Funkin! Fique atento para proximos updates!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolreal",
+			"text": "Se quiser ver quem fez o que, cheque o menu de creditos!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolreal",
+			"text": "Ou siga nossa pagina do Twitter! \\n@light_night_mod"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolfeliz",
+			"text": "Nossos sinceros agradecimentos por ter nos acompanhados ate aqui!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolreal",
+			"text": "Esse foi um dos primeiros mods que muitos aqui ja trabalharam"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolfeliz",
+			"text": "Agradecimentos especiais para o canal \\nLightwuz! Este mod foi um tributo para ele e realmente nos divertimos no processo!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "coolreal",
+			"text": "Vou me despedindo por aqui, nos vemos nos proximos updates! Se cuidem!"
+		}
+	]
+}

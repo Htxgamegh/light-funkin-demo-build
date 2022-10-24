@@ -1,0 +1,501 @@
+{
+	"dialogue": [
+		{
+			"expression": "cooltalk",
+			"text": "3 dias depois.....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "Sabado, 15:00",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "cooltalk",
+			"text": "Light e Yummi estavam fazendo uma tranquila\\ncaminhada pela rua...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cool"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Que caminhada relaxante!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "As vezes e bom relaxar depois de tanto editar video",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Olha que seu bonito!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Nao acha Light?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "talk",
+			"text": ". . . . .",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Light?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "talk",
+			"text": ". . . . . . . .",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "Light",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "talk",
+			"text": ".............",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "LIGHT?!?!??!?!?!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "Yummi"
+		},
+		{
+			"expression": "talk",
+			"text": ".    .    .    .",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "oh deus",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "Serio que eu vou ter que apelar pra esse ponto Light?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "talk",
+			"text": ".      .       .",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "lightwuz"
+		},
+		{
+			"expression": "yummiangry",
+			"text": "Ok voce nao me deu muita escolha...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"expression": "yummitalk",
+			"text": "VSILVA!!!!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "yummi"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "lightwuz",
+			"boxState": "angry",
+			"expression": "lightcofnuso",
+			"text": "LIGHTWUZ CARAMBOLAS!!!!!LIGHTWUZ!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "ah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Foi mal ai Yummi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mas eu ainda nao to acreditando que eu quase morri"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "Oh deus, voce ainda esta pensando naquela noite?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "cara foi o core, a pessoa que eu menos eperava\\nque poderia tentar me matar"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pelo menos nao essa semana._."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "olha cara, as vezes tem coisas que acontecem com a gente que nunca iriamos achar que ia acontecer"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "entao nao pensam nessas coisas nao ok?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah cara, sabe como e"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "nunca se sabe ne?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "angry",
+			"expression": "yummiangry",
+			"text": "MEU DEUS, PARA DE PENSAR NISSO!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "yummi",
+			"boxState": "angry",
+			"expression": "yummiangry",
+			"text": "Nao e como se um cara aleatorio chamasse a gente pra cantar rap com ele nesse exato momento-"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "lightwuz",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AI JESUS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cool",
+			"boxState": "normal",
+			"expression": "cooltalk",
+			"text": "Rapidamente Light e Yummi sao puxados para um beco escuro, ambos estavam perto do mesmo....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "angry",
+			"expression": "lightcofnuso",
+			"text": "mas o que que foi isso meu deus?!?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Fomos puxados para um beco ue"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "poxa Yummi brigadao ai"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NAO FAZIA IDEIA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Mas eu tava perguntando quem foi o sem alma que nos puxou para este beco escuro e sem saida-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "angry",
+			"expression": "parappatafeliz",
+			"text": "AHA! Ai estao voces!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "Lightwuz",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AI MEU DEUS UM FURRY!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "Ah pelo amor de deus"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Esse e o Parappa The Rapper!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "O proprio!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Faz mais sentido"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mas nao explica o fato de voce ter nos puxado\\nnem um pouco cuidadosamente para este beco"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Eh! Cuidado com as damas na proxima vez que puxar alguem pra um beco >:("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappataputo",
+			"text": "desculpem, foi a primeira vez que eu fiz isso"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "Mas respondendo sua pergunta inicial"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "Eu chamei-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "puxou"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappataputo",
+			"text": "puxei..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "-Voces aqui para uma batalha de rap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "Nao e possivel..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Ahhhhh saquei"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightcofnuso",
+			"text": "Mas porque ESPECIFICAMENTE a gente?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "Bem eu vi que voces eram muito bons depois que derrotaram aquele cara sinistro de barba-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Como voce sabe disso?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappataputo",
+			"text": "Ta todo mundo falando sobre isso"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "A fofoca se expalha rapido"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappataputo",
+			"text": "voltando ao assunto..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "Eu pensei que seria legal desfiar voce e sua amiga de chifre para impressionar a minha garota"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Pffff, amiga com chifres? (risinhos)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummiangry",
+			"text": "eu te odeio"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Oh meu deus, carinha voce e divertido"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatalk",
+			"text": "Obrigado!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "Eu vou cantar rap com voce sim"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Desde que nao demore muito"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lightwuz",
+			"boxState": "normal",
+			"expression": "lightfeliz",
+			"text": "A nervosinha da minha amiga ta se caindo de raiva ja"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "parappa",
+			"boxState": "normal",
+			"expression": "parappatafeliz",
+			"text": "perfeito!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yummi",
+			"boxState": "normal",
+			"expression": "yummitalk",
+			"text": "Eu nao so paga pra isso"
+		}
+	]
+}
